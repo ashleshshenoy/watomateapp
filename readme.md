@@ -7,18 +7,7 @@
 With Watomate, say goodbye to the frustrations of disjointed communication strategies. Our platform enables you to effortlessly craft personalized messages and target specific customer segments with precision, all through the familiar interface of WhatsApp. No more guesswork – just seamless engagement tailored to your audience's preferences.
 
 Got curious? Well, now you have the chance to experience the magic.  
-
-See here for how it works  👇
-<center>
- <iframe width="560" 
-         height="315" 
-         src="YOUTUBE_LINK" 
-         title="YouTube video player" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
-</center>
+https://www.youtube.com/watch?v=fIN0sXFfOGw
 
 
 
