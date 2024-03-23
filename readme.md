@@ -9,7 +9,16 @@ With Watomate, say goodbye to the frustrations of disjointed communication strat
 Got curious? Well, now you have the chance to experience the magic.  
 
 See here for how it works  👇
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{fIN0sXFfOGw})](https://youtu.be/{fIN0sXFfOGw})
+<center>
+ <iframe width="560" 
+         height="315" 
+         src="YOUTUBE_LINK" 
+         title="YouTube video player" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen>
+ </iframe>
+</center>
 
 
 
