@@ -9,7 +9,8 @@ With Watomate, say goodbye to the frustrations of disjointed communication strat
 Got curious? Well, now you have the chance to experience the magic.  
 
 See here for how it works  👇
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=fIN0sXFfOGw/0.jpg)](https://www.youtube.com/watch?v=fIN0sXFfOGw)
+[![Watomate demo](https://www.youtube.com/watch?v=fIN0sXFfOGw/0.jpg)](https://www.youtube.com/watch?v=fIN0sXFfOGw "Watomate demo video")
+
 
 
 ### Introducing our  platform, designed with precision to empower your marketing endeavours:
