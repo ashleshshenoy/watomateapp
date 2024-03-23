@@ -9,7 +9,7 @@ With Watomate, say goodbye to the frustrations of disjointed communication strat
 Got curious? Well, now you have the chance to experience the magic.  
 
 See here for how it works  👇
-[![Watomate demo video](https://img.youtube.com/vi/fIN0sXFfOGw-Y/0.jpg)](https://www.youtube.com/watch?v=fIN0sXFfOGw-Y "Watomate demo video")
+[![](https://markdown-videos-api.jorgenkh.no/youtube/{fIN0sXFfOGw})](https://youtu.be/{fIN0sXFfOGw})
 
 
 
