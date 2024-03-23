@@ -1,0 +1,38 @@
+\list
+create database watomate
+\list
+\c watomate
+
+
+CREATE TABLE segment(
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    description VARCHAR(250),
+    creator_id VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE customerentry (
+   id SERIAL PRIMARY KEY,
+   phone VARCHAR(15) NOT NULL,
+   name VARCHAR(50),
+   segment_id INTEGER NOT NULL REFERENCES segment (id) ON DELETE CASCADE
+);
+
+
+CREATE TABLE campaign (
+    id SERIAL PRIMARY KEY,
+    message VARCHAR(1000),
+    image_url VARCHAR(250),
+    segment_id INTEGER NOT NULL REFERENCES segment (id) ON DELETE CASCADE
+);
+
+
+Create TABLE poll(
+    id SERIAL PRIMARY KEY,
+    creator_id VARCHAR(100) NOT NULL,
+    process_id VARCHAR(100) NOT NULL,
+    message VARCHAR(1000) NOT NULL,
+    type VARCHAR(30) NOT NULL
+);
+
+

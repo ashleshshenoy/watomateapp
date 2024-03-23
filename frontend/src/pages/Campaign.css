@@ -1,0 +1,53 @@
+
+.divi{
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+@media (max-width: 1100px) {
+    .divi{
+        margin-left: 0%;
+    }
+
+}
+
+
+.campaign-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 100vh;
+    width: 100%;
+}
+
+.campagin-form{
+    width: 100%;
+    height: 100vh;
+    padding: 1.5rem;
+    box-sizing: border-box;
+}
+
+.campaign-form-container{
+    width: 50%;
+    text-align: start;
+    display: flex;
+    min-width: 400px;
+    height: 100vh;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+
+.campaigns{
+    width: 50%;
+    text-align: start;
+    min-width: 400px;
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}    

@@ -1,0 +1,12 @@
+.nav-bar{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 20%;
+}
+
+@media (max-width: 1100px) {
+    .nav-bar{
+        display: none;
+    }
+}
